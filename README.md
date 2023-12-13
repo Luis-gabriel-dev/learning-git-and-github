@@ -1,1 +1,1 @@
-# This is a personal project from a git and github course
+# This is a personal project to learning git and github.
